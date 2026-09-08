@@ -1,0 +1,13 @@
+.vs/
+out/
+build/
+*.user
+
+*.exe
+*.dll
+*.obj
+
+
+flight_log.csv
+__pycache__/
+*.pyc
